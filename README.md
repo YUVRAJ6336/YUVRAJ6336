@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Bhati</h1>
-<h3 align="center">I practice Computer Vision, Machine Learning and Software Development</h3>
+<h3 align="center">I practice Computer Vision, Web Programming and Software Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YUVRAJ6336&label=Profile%20views&color=0e75b6&style=flat" alt="YUVRAJ6336" /> </p>
 
